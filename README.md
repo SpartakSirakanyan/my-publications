@@ -7,7 +7,7 @@ This repository contains my scientific articles with DOIs and references.
 ---
 
 ## 1. Comparative analysis of the numerical solution of the diffusion equation in plants using automatic differentiation and grid methods
-- **Authors:** Spartak S. Sirakanyan, Armenak H. Babayan  
+- **Authors:** Armenak H. Babayan, Spartak S. Sirakanyan
 - **Journal:** Vol. 43, Issue 8, Part 1, August 2025, pp. 17–23  
 - **ISSN:** 0265-086X  
 - **DOI:** [10.61586/cwmwo](https://doi.org/10.61586/cwmwo)  
