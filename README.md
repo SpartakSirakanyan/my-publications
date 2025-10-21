@@ -1,6 +1,5 @@
 # Մագիստրոսական թեզ - «Մեքենայական ուսուցման մեթոդների կիրառումը մի մասնակի ածանցյալներով դիֆերենցիալ հավասարման լուծման համար»
 
----
 
 ## 1. Comparative analysis of the numerical solution of the diffusion equation in plants using automatic differentiation and grid methods
 - **Authors:** Armenak H. Babayan, Spartak S. Sirakanyan
