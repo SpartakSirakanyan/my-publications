@@ -1,10 +1,4 @@
-# Մագիստրոսական թեզի վերնագիր - «Մեքենայական ուսուցման մեթոդների կիրառումը մի մասնակի ածանցյալներով դիֆերենցիալ հավասարման լուծման համար»
-
-# my-publications
-Scientific papers and publications with DOIs and PDF files.
-# Publications
-
-This repository contains my scientific articles with DOIs and references.
+# Մագիստրոսական թեզ - «Մեքենայական ուսուցման մեթոդների կիրառումը մի մասնակի ածանցյալներով դիֆերենցիալ հավասարման լուծման համար»
 
 ---
 
