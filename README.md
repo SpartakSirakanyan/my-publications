@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## References
 
 [1] A.H. Babayan, S.S. Sirakanyan, “Comparative analysis of the numerical solution of the diffusion equation in plants using automatic differentiation and grid methods,” Vol. 43, Issue 8, Part 1, August 2025, pp. 17–23. ISSN 0265-086X. DOI: [10.61586/cwmwo](https://doi.org/10.61586/cwmwo)  
